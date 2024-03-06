@@ -61,10 +61,6 @@ div.gallery {
 
 }
 
-div.gallery:hover {
-  border: 3px solid #ffffff;
-}
-
 div.gallery img {
   width: 500px;
   height: 350px;
@@ -88,3 +84,8 @@ h2 {
   font-family: 'Courier New', Courier, monospace;
   font-size: 35px;
 }
+li a:hover {
+   background-color: #bdbdbd72;
+   padding: 14px 16px;
+ }
+
