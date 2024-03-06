@@ -49,11 +49,6 @@ div.desc {
   background-size: cover;
 }
 
-li a:hover {
-  background-color: #ffffff72;
-  padding: 14px 16px;
-}
-
 div.gallery {
   margin-left: 150px;
   border: 3px solid rgb(153, 77, 28);
